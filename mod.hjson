@@ -1,1 +1,6 @@
-1
+name: UA Min schempack
+displayName: "Ukranian Mindustry schempack"
+author: "Chat-bot"
+description: "mod added new schemes for Ukrainian Mindustry"
+version: 0.1
+minGameVersion: "142"
