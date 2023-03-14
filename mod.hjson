@@ -5,4 +5,4 @@ description: "mod added new schemes for Ukrainian Community
 Дякую за допомогу: Жак фреско#0391 ,"
 version: 1.0
 minGameVersion: "142"
-hidden: false
+hidden: true
